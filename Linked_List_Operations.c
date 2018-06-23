@@ -289,22 +289,15 @@ int main()
     {
         case 1:
             create();
-         break;
-
+        break;
         case 2:append();
         break;
-
         case 3:addfirst();
         break;
-
-        case 4:
-            c=length();
-            printf("Length of List is %d\n",c);
-            break;
-
-
-        case 5:
-            addafter();
+        case 4:c=length();
+               printf("Length of List is %d\n",c);
+        break;
+        case 5:addafter();
         break;
         case 6:delete1();
         break;
@@ -318,7 +311,6 @@ int main()
         break;
         case 11:exit(0);
         break;
-
         default:printf("Invalid Entry\n");
     }
     }
