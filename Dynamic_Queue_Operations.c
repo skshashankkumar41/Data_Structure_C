@@ -114,6 +114,7 @@ int main()
     while(ch!=4)
     {
     printf("Data Structure Dynamic_Queue\n");
+    printf("Choose Options\n");
     printf("1.Insert\n2.Delete\n3.Display\n4.Exit\n");
     scanf("%d",&ch);
          switch(ch)
