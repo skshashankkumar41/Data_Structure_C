@@ -1,2 +1,2 @@
 # Data_Structure_C
-Data Structure Algorithm through C 
+Data Structure Operations through C 
